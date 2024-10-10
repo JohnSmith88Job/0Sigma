@@ -1,0 +1,12 @@
+{
+    "name": "0Sigma",
+    "symbol": "0Sigma",
+    "description": "Sigma male",
+    "image": "https://raw.githubusercontent.com/JohnSmith88Job/0Sigma/refs/heads/main/Screenshot%20from%202024-10-10%2020-30-54.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+  }
